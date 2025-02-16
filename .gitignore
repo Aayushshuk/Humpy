@@ -1,0 +1,7 @@
+# Ignore Unreal Engine-generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
